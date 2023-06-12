@@ -17,4 +17,4 @@ declare class PointSwitch {
   transform(x1: number, y1: number): Point;
 }
 
-export = {Point, PairPoint, Triangle, PointSwitch}
+export { Point, PairPoint, Triangle, PointSwitch };
