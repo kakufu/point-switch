@@ -1,0 +1,10 @@
+{
+  "name": "point-switch",
+  "version": "1.0.0",
+  "description": "Calculate the coordinates corresponding to points within a polygon when mapping one polygon to another",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": "https://github.com/kakufu/point-switch.git",
+  "author": "kakufu <136052296+kakufu@users.noreply.github.com>",
+  "license": "MIT"
+}
