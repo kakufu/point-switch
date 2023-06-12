@@ -1,6 +1,6 @@
 {
   "name": "point-switch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate the coordinates corresponding to points within a polygon when mapping one polygon to another",
   "main": "index.js",
   "types": "index.d.ts",
